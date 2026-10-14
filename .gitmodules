@@ -1,0 +1,6 @@
+[submodule "finanzas"]
+	path = finanzas
+	url = https://github.com/MAKEOUTHILL629/finanzas.git
+[submodule "finanzas-mf"]
+	path = finanzas-mf
+	url = https://github.com/MAKEOUTHILL629/finanzas-mf.git
